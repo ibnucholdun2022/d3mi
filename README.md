@@ -1,2 +1,2 @@
 # d3mi
-Diploma III Teknik Informatika
+Diploma III Manajemen Informatika
